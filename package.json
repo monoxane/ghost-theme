@@ -1,0 +1,21 @@
+{
+  "name": "ghost-theme-monoxane",
+  "version": "1.0.0",
+  "description": "A shell based theme for ghost",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoaxne/ghost-theme-monoxane.git"
+  },
+  "author": [
+    "Oliver 'monoxane'"
+  ],
+  "license": "MIT) (https://github.com/monoxane/ghost-theme-monoxane/blob/master/LICENSE.md)",
+  "homepage": "https://github.com/monoxane/ghost-theme-monoxane"
+}
